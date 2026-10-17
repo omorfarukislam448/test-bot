@@ -1,0 +1,116 @@
+{
+    "categories": {
+        "ig_2fa": {
+            "name": "Instagram 2FA",
+            "status": false,
+            "price": 3.0,
+            "show_price": true,
+            "popup": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_closed": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_shift": "দুঃখিত, বর্তমানে {category}  জমা দেওয়ার সময় শেষ! ⏰"
+        },
+        "ig_cookies": {
+            "name": "Instagram Cookies",
+            "status": false,
+            "price": 4.0,
+            "show_price": true,
+            "popup": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_closed": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_shift": "দুঃখিত, বর্তমানে {category} শিফটের বাইরে রয়েছে! ⏰"
+        },
+        "fb_2fa": {
+            "name": "Facebook 2FA",
+            "status": false,
+            "price": 5.0,
+            "show_price": true,
+            "popup": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_closed": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_shift": "দুঃখিত, বর্তমানে {category} শিফটের বাইরে রয়েছে! ⏰"
+        },
+        "fb_cookies": {
+            "name": "Facebook Cookies",
+            "status": false,
+            "price": 5.0,
+            "show_price": true,
+            "popup": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_closed": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_shift": "দুঃখিত, বর্তমানে {category} শিফটের বাইরে রয়েছে! ⏰"
+        },
+        "pc_clone": {
+            "name": "PC Clone",
+            "status": false,
+            "price": 16.0,
+            "show_price": true,
+            "popup": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! 🚫",
+            "popup_closed": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_shift": "দুঃখিত, বর্তমানে {category} শিফটের বাইরে রয়েছে! ⏰"
+        },
+        "gmail": {
+            "name": "Gamil 2Fa",
+            "status": true,
+            "price": 25.0,
+            "show_price": true,
+            "popup_closed": "দুঃখিত, বর্তমানে Gamil 2Fa এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+            "popup_shift": "দুঃখিত, বর্তমানে Gamil 2Fa শিফটের বাইরে রয়েছে! ⏰"
+        }
+    },
+    "payments": {
+        "bkash": {
+            "name": "Bkash",
+            "status": true
+        },
+        "nagad": {
+            "name": "Nagad",
+            "status": true
+        },
+        "binance": {
+            "name": "Binance",
+            "status": true
+        },
+        "rocket": {
+            "name": "Rocket",
+            "status": false
+        }
+    },
+    "referral": {
+        "status": true,
+        "bonus_amount": 2.0,
+        "commission_percent": 2.0,
+        "min_refs_to_withdraw": 1,
+        "min_amount_to_withdraw": 20.0,
+        "commission_status": true
+    },
+    "popup_template": "দুঃখিত, বর্তমানে {category} এর ফাইল জমা নেওয়া বন্ধ রয়েছে! ❌",
+    "wallets": {
+        "USDT BSC": {
+            "desc": "BEP20",
+            "address": "0x16dcb7925937b89f7bc92629002ff2fccf6eb770"
+        },
+        "TRX TRON": {
+            "desc": "TRC20",
+            "address": "TFVPJhbPFryvn1RWa1488jRZTxNUmoNLLa"
+        },
+        "Litecoin": {
+            "desc": "LTC",
+            "address": "LavPcZDYf6ZJCMFGBJqHCVnSmWw296ZYn8"
+        },
+        "DASH": {
+            "desc": "dash",
+            "address": "XjeqSPJVq78hDtSHcG8E3qEezUmxgvWHGt"
+        },
+        "Binance": {
+            "desc": "UID",
+            "address": "834631255"
+        }
+    },
+    "channels": {
+        "submission_channel": "-1003999624012",
+        "withdrawal_channel": "-1003624349882",
+        "join_channel": "@OMORTECH",
+        "support_link": "bot"
+    },
+    "binance_api": {
+        "api_key": "EoniIB85SQhNEn1h4ve9ShbC13t8ievC5Jc1ttKhNcKNeijfkkVh9Jhf1FIMDxGF",
+        "api_secret": "iyUrdBoVtmc9vjo4k4MJUJNUIXnNVjMhkJ1lfvYwJ1qhCjnbq01mv9hprMNaWQ4Z"
+    }
+}

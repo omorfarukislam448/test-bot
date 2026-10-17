@@ -1,0 +1,10 @@
+{
+    "Facebook Cookies": {
+        "price": 5.0,
+        "popup": "🔔 {category} সাবমিট করার আগে নিয়ম মেনে চলুন!"
+    },
+    "Instagram 2FA": {
+        "price": 6.0,
+        "popup": "🔔 {category} কাজের জন্য সঠিক ফাইল দিন।"
+    }
+}

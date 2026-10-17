@@ -1,0 +1,43 @@
+{
+    "referred_users": [
+        "8807782941",
+        "8114489614",
+        "8321914105",
+        "7815818738"
+    ],
+    "6945991387": [
+        "8807782941",
+        "8114489614"
+    ],
+    "referrers": {
+        "8807782941": {
+            "refs": [
+                {
+                    "uid": "admin_added",
+                    "bonus": 5.0,
+                    "date": "2026-10-10"
+                }
+            ],
+            "withdrawn": 5.0,
+            "commission_earned": 0.0
+        },
+        "6945991387": {
+            "refs": [
+                {
+                    "uid": "7815818738",
+                    "bonus": 2.0,
+                    "date": "2026-10-11"
+                }
+            ],
+            "withdrawn": 0.0,
+            "commission_earned": 101.19999999999999,
+            "manual_adjustment": 0.0
+        },
+        "8276619021": {
+            "refs": [],
+            "withdrawn": 0.0,
+            "commission_earned": 0.0,
+            "manual_adjustment": 0.0
+        }
+    }
+}

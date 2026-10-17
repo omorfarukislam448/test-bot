@@ -5240,8 +5240,9 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-keep_alive()
-    application = (
+  keep_alive()
+  
+  application = (
       ApplicationBuilder()
       .token(TOKEN)
       .read_timeout(30)

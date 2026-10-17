@@ -22,6 +22,7 @@ from telegram.ext import (
     filters,
 )
 
+from keep_alive import keep_alive
 TOKEN = "8740758744:AAF551GI6y42aXKDWdvHrM04yanX4Wo0Uj0"
 DEFAULT_ADMIN_ID = 6945991387
 
@@ -5239,7 +5240,8 @@ async def handle_document(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-  application = (
+keep_alive()
+    application = (
       ApplicationBuilder()
       .token(TOKEN)
       .read_timeout(30)
